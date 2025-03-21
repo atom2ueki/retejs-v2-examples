@@ -1,21 +1,15 @@
-# Rete.js v2 Examples
+# Rete.js V2 Examples
 
-This repository contains a collection of examples for Rete.js v2, a modular framework for visual programming and node editors.
+This repository contains examples from the RetesJS website for reference and learning purposes.
 
-## Examples
+## Examples Structure
 
-### Basic
+- basic/ - Basic Rete.js implementation with React
+- controls/ - Custom controls implementation with React
+- customization/ - UI customization examples with React
 
-- [React](./basic/react) - A simple node editor with React integration
+## Source References
 
-## About Rete.js
-
-Rete.js is a modular framework for visual programming. It allows you to create node-based editors in the browser and use them for different purposes.
-
-- [Official Website](https://retejs.org/)
-- [Documentation](https://retejs.org/docs)
-- [GitHub Repository](https://github.com/retejs/rete)
-
-## License
-
-MIT License
+- Basic: https://codesandbox.io/p/sandbox/rete-js-v2-yrzxe5
+- Controls: https://codesandbox.io/p/sandbox/rete-js-v2-custom-controls-2vp0wx
+- Customization: https://codesandbox.io/p/sandbox/rete-js-v2-customization-jpwdh3
