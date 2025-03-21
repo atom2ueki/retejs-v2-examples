@@ -20,6 +20,9 @@ This repository contains examples from the RetesJS website for reference and lea
 - selectable-connections/ - Selectable connections implementation with React
 - minimap/ - Minimap plugin implementation example
 - dock/ - Dock menu plugin implementation example
+- sankey-diagram/ - Sankey diagram visualization example
+- connection-path/ - Custom connection path strategies example
+- reroute/ - Connection reroute points example
 
 ## Source References
 
@@ -35,3 +38,6 @@ This repository contains examples from the RetesJS website for reference and lea
 - Selectable Connections: https://codesandbox.io/p/sandbox/rete-js-v2-selectable-connections-cfetvh
 - Minimap: https://codesandbox.io/p/sandbox/rete-js-v2-minimap-ob9uqc
 - Dock Menu: https://codesandbox.io/p/sandbox/rete-js-v2-dock-menu-t2enm0
+- Sankey Diagram: https://codesandbox.io/p/sandbox/rete-js-v2-sankey-diagram-v75qmr
+- Connection Path: https://codesandbox.io/p/sandbox/rete-js-v2-connection-path-5dneyc
+- Reroute: https://codesandbox.io/p/sandbox/rete-js-v2-reroute-8doi0c
