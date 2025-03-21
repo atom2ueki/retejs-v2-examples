@@ -13,6 +13,9 @@ This repository contains examples from the RetesJS website for reference and lea
 - area-extensions/ - Area extensions demonstrations
 - performance/ - Performance optimization examples
 - processing/ - Processing examples
+- selectable-connections/ - Selectable connections implementation with React
+- minimap/ - Minimap plugin implementation example
+- dock/ - Dock menu plugin implementation example
 
 ## Source References
 
@@ -22,3 +25,6 @@ This repository contains examples from the RetesJS website for reference and lea
 - Readonly: https://codesandbox.io/p/sandbox/rete-js-v2-readonly-4pi274
 - Modules: https://codesandbox.io/p/sandbox/rete-js-v2-modules-dataflow-vhr0h5
 - Scopes: https://codesandbox.io/p/sandbox/rete-js-v2-scopes-grgie8
+- Selectable Connections: https://codesandbox.io/p/sandbox/rete-js-v2-selectable-connections-cfetvh
+- Minimap: https://codesandbox.io/p/sandbox/rete-js-v2-minimap-ob9uqc
+- Dock Menu: https://codesandbox.io/p/sandbox/rete-js-v2-dock-menu-t2enm0
