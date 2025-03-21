@@ -11,6 +11,15 @@ This repository contains examples from the RetesJS website for reference and lea
   - arrange/ - Automatic node arrangement example
   - insert-node/ - Insert node between existing nodes
   - magnetic-connection/ - Magnetic node alignment when dragging
+- readonly/ - Readonly mode implementation with React
+- modules/ - Modules with dataflow implementation with React
+- scopes/ - Scopes implementation with React
+- area-extensions/ - Area extensions demonstrations
+- performance/ - Performance optimization examples
+- processing/ - Processing examples
+- selectable-connections/ - Selectable connections implementation with React
+- minimap/ - Minimap plugin implementation example
+- dock/ - Dock menu plugin implementation example
 
 ## Source References
 
@@ -20,3 +29,9 @@ This repository contains examples from the RetesJS website for reference and lea
 - Arrange Layout: https://codesandbox.io/p/sandbox/rete-js-v2-arrange-layout-nodes-ri75lp
 - Insert Node: https://codesandbox.io/p/sandbox/rete-js-v2-insert-node-between-nodes-givohx
 - Magnetic Connection: https://codesandbox.io/p/sandbox/rete-js-v2-magnetic-connection-078ild
+- Readonly: https://codesandbox.io/p/sandbox/rete-js-v2-readonly-4pi274
+- Modules: https://codesandbox.io/p/sandbox/rete-js-v2-modules-dataflow-vhr0h5
+- Scopes: https://codesandbox.io/p/sandbox/rete-js-v2-scopes-grgie8
+- Selectable Connections: https://codesandbox.io/p/sandbox/rete-js-v2-selectable-connections-cfetvh
+- Minimap: https://codesandbox.io/p/sandbox/rete-js-v2-minimap-ob9uqc
+- Dock Menu: https://codesandbox.io/p/sandbox/rete-js-v2-dock-menu-t2enm0
