@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://rete.js.org/assets/logo.svg" alt="Rete.js logo">
+  <img width="300" src="https://github.com/retejs.png" alt="Rete.js logo">
 </p>
 
 # Rete.js Examples V2
